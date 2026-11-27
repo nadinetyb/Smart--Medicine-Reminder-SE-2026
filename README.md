@@ -3,7 +3,7 @@
 ## Team Members
 - Tayeb Nadine
 - Dif Fatma Zohra
-- Boukhmis Manal
+- BOUKHEMIS Manal
 - MOSTEFAI Malak
 
 ## Type of Software
